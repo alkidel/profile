@@ -116,8 +116,15 @@ a:hover {
   bottom: 0;
   background-color: #384047;
 }
+
+
+#sidebar ul {
+    list-style: none;
+    padding-left: 0px;
+}
+
 #page-content {
-  margin-left: 300px;
+  margin-left: 100px;
 }
 
 
