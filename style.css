@@ -29,12 +29,12 @@ h3 {
 a {
   color: #7DA789;
   text-decoration: none;
-  transition: font-size 0.5s;
 }
 
 a:hover {
   color: rgb(100,100,100);
   text-decoration: none;
+  font-size: 1.55em;
 }
 
 .container {
