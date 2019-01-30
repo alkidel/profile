@@ -34,7 +34,7 @@ a {
 a:hover {
   color: rgb(100,100,100);
   text-decoration: none;
-  font-size: 105%;
+  font-size: 1.55em;
 }
 
 .container {
@@ -81,12 +81,6 @@ a:hover {
 
 .bigger-text {
   font-size: 1.5em;
-}
-
-.bigger-text > a:hover {
-  color: rgb(100,100,100);
-  text-decoration: none;
-  font-size: 1.55em;
 }
 
 @media (max-width: 960px) {
